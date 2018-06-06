@@ -1,0 +1,9 @@
+[*.*]
+indent_style = space
+
+[*.html]
+indent_size = 4
+
+[*.js]
+indent_size = 2
+
